@@ -1,0 +1,10 @@
+# Ignore Power BI temporary user settings and cache
+.Package/
+*.log
+*.tmp
+*.accessor
+*.user
+
+# Ignore standard operating system files
+Thumbs.db
+.DS_Store
